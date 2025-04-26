@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard - Smart Scheduler</title>
+</head>
+<body style="text-align:center; margin-top:100px; font-family:Arial, sans-serif;">
+    <h1>Welcome to Smart Scheduler!</h1>
+    <p>This is the dashboard page after login.</p>
+</body>
+</html>
